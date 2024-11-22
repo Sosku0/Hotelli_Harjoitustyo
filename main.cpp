@@ -1,4 +1,5 @@
 //HOTELLI HARJOITUS TYÖ
+//Oskar Engman
 
 #include<iostream>
 #include<string>
