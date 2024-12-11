@@ -1,5 +1,6 @@
-//HOTELLI HARJOITUS TYÖ
+//HOTELLI HARJOITUS TYÖ 
 //Oskar Engman
+//Arvosanatavoite 4-5
 
 #include<iostream>
 #include<string>
